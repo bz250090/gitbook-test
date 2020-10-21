@@ -1,2 +1,2 @@
-# gitbook-test
-This is a test of github + gitbook integration
+# Digital Ordering
+NCR Digital Ordering is NCR's solution to enable your customers to purchase from you online.
