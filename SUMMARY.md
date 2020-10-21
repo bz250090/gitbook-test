@@ -1,5 +1,5 @@
 # Table of contents
 
-* [gitbook-test](README.md)
+* [Introduction](README.md)
 * [Release Notes](release-notes.md)
 
