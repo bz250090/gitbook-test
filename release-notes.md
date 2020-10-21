@@ -13,6 +13,10 @@
 
 ## 1.4.0 - October 10, 2020
 
+{% hint style="info" %}
+Special Notice: You must install patch 1.3.9 prior to upgrading to this version
+{% endhint %}
+
 ### What's New
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut fringilla purus. Maecenas at facilisis.
